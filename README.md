@@ -12,6 +12,7 @@ Hey! I'm Sandesh — I love building clean, functional projects and experimentin
 🛠️ I enjoy mixing tech to solve real problems, especially with automation and data.
 
 Programming Languages:
+
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
@@ -21,6 +22,8 @@ Programming Languages:
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?logo=mysql&logoColor=white)
 
 Tools, Libraries & Frameworks:
+
+
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visual-studio-code&logoColor=white)
